@@ -2,10 +2,11 @@
 
 > Curadoria de Slacks no Brasil para você participar.<br>
 
-## Desenvolvimento
+### Desenvolvimento
+
 Badge | Link | Participar
 ----- | ---- | ----
-![Participantes](https://javadevbr.herokuapp.com/badge.svg) | [JavaDevBR](http://javadevbr.slack.com/) | [Participar](https://javadevbr.herokuapp.com/) |
+![Participantes](https://javadevbr.herokuapp.com/badge.svg) | [JavaDevBR](http://javadevbr.slack.com/) | [Participar](https://javadevbr.herokuapp.com/)
 
 ### Front-end
 
