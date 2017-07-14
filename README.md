@@ -36,6 +36,6 @@ Badge | Link | Participar
 ### Contribua com esta lista!
 
 Faça um fork e mande uma PR para aumentar essa lista.
+
 :beers: :beers: :beers: :beers:
 
-:love: :love: :love: :love:
